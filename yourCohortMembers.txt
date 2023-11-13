@@ -1,4 +1,12 @@
 The time or name of your cohort:
-
+QA for code testing
 
 First names of all your cohort classmates:
+Charles
+Hamlet
+Sarah
+Gunner
+Lauren
+Stephen
+Sam
+Ezra
