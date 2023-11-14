@@ -3,7 +3,7 @@ QA for code testing
 
 First names of all your cohort classmates:
 Charles Ericson
-Hamlet
+Hamlet Gordillo
 Sarah
 Gunner
 Lauren
